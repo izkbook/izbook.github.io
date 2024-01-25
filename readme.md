@@ -1,13 +1,13 @@
 <style>
 .book {
-    border: 2px solid;
+    border: 1px solid;
     border-color: #e0e0e0;
     margin: 0px;
     transition: all 0.25s;
     background: white;
     width: 100%;
     text-align: right;
-    padding: 1.5px;
+    padding-top: 1.5px; padding-bottom: 1.5px;
 }
 
 .book:hover {
@@ -21,7 +21,7 @@
 }
 
 .container {
-    border: 2px solid;
+    border: 1px solid;
     border-color: #e0e0e0;
 }
 </style>
