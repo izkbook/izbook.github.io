@@ -1,25 +1,20 @@
 <style>
 .book {
-    background: #dbdbdb;
-    border: none;
-    outline: none;
-    border-radius: 6px;
-    padding: 2px 4px;
-    width: 100%;
-    margin: 4px;
-    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
-    transition: all 0.3s;
+    border: 1px;
+    border-color: #e0e0e0;
+    padding: 2px;
+    margin: 0px;
+    transition: all 0.25s;
 }
 
 .book:hover {
-    background-color: #bfbfbf;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
-    font-size: 18px;+
+    background-color: #dddddd;
+    cursor: pointer;
 }
 
-.button:active {
+.book:active {
     background-color: #84dbb9;
-    border-radius: 12px;
+    cursor: pointer;
 }
 </style>
 
