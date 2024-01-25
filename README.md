@@ -1,2 +1,2 @@
-# pyhubs.github.io
-This is the offical website
+# Store
+Welcome to the new store plan
