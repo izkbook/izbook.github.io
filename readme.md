@@ -6,6 +6,8 @@
     transition: all 0.25s;
     background: white;
     width: 100%;
+    text-align: right;
+    padding: 1.5px;
 }
 
 .book:hover {
