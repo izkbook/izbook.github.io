@@ -1,4 +1,14 @@
-<link rel='stylesheet' href='style.css>
+<style>
+.book {
+    background: #cccc;
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    padding: 2px 4px;
+    width: 100%;
+    margin: 4px 0px;
+}
+</style>
 
 <!-- Books -->
 # Books
