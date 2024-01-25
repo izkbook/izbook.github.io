@@ -1,3 +1,4 @@
+<link rel='stylesheet' href='style.css>
 
 <!-- Books -->
 # Books
@@ -9,6 +10,6 @@ A variety of books available to read, for free with *no advertisements*
 [The Journal Of A Plant](/books/The-Journal-Of-A-Plant.pdf)<br>
 [The Journal Of A Plant *Old*](/books/The-Journal-Of-A-Plant-Old.pdf)<br>
 
-<button style='background-color: #cccccc'>
+<button class='book'>
     [The Journal Of A Plant *Old*](/books/The-Journal-Of-A-Plant-Old.pdf)<br>
 </button>
