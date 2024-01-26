@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta name="theme-color" content="#5BBB2A" />
+	<link rel="manifest" href="manifest.json">
+	<title>Bean23</title>
+</head>
+<body>
+
+	<div id='selectDiv'>
+		<center>
+			<h1>The Bean23</h1>
+			<div class='flexbox'>
+				<button class='flexible' onclick='document.location.href="/game.html"'>Play</button><br>
+				<button class='flexible' onclick='toggleDiv()'>Skin</button><br>
+			</div>
+			<div class='flexbox'>
+				<button class='flexible' onclick='toggleStatss()'>Stats</button><br>
+				<button class='flexible' onclick='toggleHelp()'>Help</button><br>
+			</div>
+			<div class='flexbox'>
+				<button class='flexible' onclick='document.location.href="https://dbn.imibuks.repl.co"'>Classic</button><br>
+				<button class='flexible' onclick='document.location.href="https://beanz.imibuks.repl.co/game.html"'>Beanz</button><br>
+			</div>
+		</center>
+	</div>
+
+	<div id='skinDiv'>
+		<center>
+			<h1>Skins</h1>
+			<button id='gback' onclick='toggleDiv()'>Go Back</button><br>
+		</center>
+
+		<div class='flexbox'>
+			<div class='skins-btn' id='skin-bean'>
+				<img src='sprites/bean/happy.png' />
+			</div>
+
+			<div class='skins-btn' id='skin-birb'>
+				<img src='sprites/birb/happy.png' />
+			</div>
+
+			<div class='skins-btn' id='skin-classic'>
+				<img src='sprites/classic/happy.png' />
+			</div>
+
+			<div class='skins-btn' id='skin-potato'>
+				<img src='sprites/potato/happy.png' />
+			</div>
+
+		</div>
+	</div>
+
+	<!-- Help -->
+	<div id='helpDiv'>
+		<p><b>The Bean</b> is an <i>infinite runner game</i> by <a href='https://store.imibuks.repl.co'>IMIBUKS</a> (music provided by <a href='https://replit.com/@IMIBUKS/PotatoGun'>PotatoGun</a></p>
+	</div>
+
+	<div id='statdiv'>
+		<h1>Statistics</h1>
+		<center><button id='ggback' onclick='toggleStats()'>Go Back</button><br></center>
+		<p id='stater'>Statistic</p>
+	</div>
+
+	<script src='script.js'></script>
+
+</body>
+
+</html>

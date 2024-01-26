@@ -7,7 +7,7 @@
         background: white;
         width: 100%;
         text-align: left;
-        padding: 
+        padding: 3.5px;
     }
 
     .book:hover {
@@ -31,7 +31,7 @@
 These are websites and games created, enjopy for free with *no advertisements*
 
 <div class='container'>
-    <a href='./bean/index.html'>
+    <a href='./Bean23/index.html'>
         <button class='book'>Bean23</button>
     </a>
 </div>

@@ -1,0 +1,120 @@
+@font-face {
+  font-family: APL386;
+  src: url("APL386.ttf") format("truetype");
+}
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	background-image: url("background.png");
+	overflow: hidden;
+	background-size: cover;
+	background-position: center;
+	font-family: APL386, sans-serif;
+	user-select: none;
+}
+
+h1 {
+	font-weight: normal;
+	font-size: 5rem;
+	margin-bottom: 0px;
+	background: transparent;
+	color: #D8F0DE;
+	text-align: center;
+}
+
+button {
+	background-color: rgba(170, 217, 192, 0.7);
+	border-radius: 6px;
+	font-family: APL386, sans-serif;
+	padding: 0.3rem;
+	display: block;
+	width: 90%;
+	color: black;
+	outline: none;
+	border: none;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+	font-size: 2rem;
+	transition: all 0.3s;
+}
+
+button:hover {
+	background-color: rgba(170, 217, 192, 0.6);
+	border-radius: 6px;
+	font-family: APL386, sans-serif;
+	padding: 0.3rem;
+	display: block;
+	width: 90%;
+	color: black;
+	outline: none;
+	border: none;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+	font-size: 2rem;
+}
+
+button:active {
+	background-color: rgba(145, 186, 165, 0.5);
+	border-radius: 6px;
+	font-family: APL386, sans-serif;
+	padding: 0.3rem;
+	display: block;
+	width: 90%;
+	color: black;
+	outline: none;
+	border: none;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+	font-size: 2rem;
+}
+
+h1 {
+	margin-bottom: 5px !important;
+}
+
+.flexbox {
+	display: flex;
+	flex-direction: row;
+	padding: 0.3rem;
+}
+
+.skins-btn {
+	background-color: rgba(110, 214, 253, 0.7);
+	border: 2px solid #63C1E3;
+	margin: 16px;
+	padding: 6px;
+	box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+	border-radius: 12px;
+	width: fit-content;
+	height: 125px;
+	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.skins-btn img {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+	margin: 0px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.flexible {
+	margin: 0rem 0.5rem;
+}
+
+#stater {
+	font-size: 2rem;
+	margin: 0rem 0.5rem;
+	border-radius: 6px;
+}
+
+subtitle {
+	color: #5F514E;
+	font-size: 1.5rem;
+	text-align: center;
+}
