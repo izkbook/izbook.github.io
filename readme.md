@@ -36,6 +36,7 @@ These are websites and games created, enjopy for free with *no advertisements*
     </a>
 </div>
 
+
 <!-- Books -->
 # Books
 A variety of books available to read, for free with *no advertisements*
@@ -66,3 +67,5 @@ A variety of books available to read, for free with *no advertisements*
         <button class='book'>The Journal Of A Plant <strong>Old</strong></button>
     </a>
 </div>
+
+This is still an *early* developement, **it is broken**
