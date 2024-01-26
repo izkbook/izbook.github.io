@@ -7,7 +7,7 @@
         background: white;
         width: 100%;
         text-align: left;
-        padding: 2.5px;
+        padding: 
     }
 
     .book:hover {
@@ -29,6 +29,8 @@
 <!-- Books -->
 # Books
 A variety of books available to read, for free with *no advertisements*
+
+<button class='btn'>New Phone</button>
 
 <div class='container'>
     <a href='./books/All%20About%20Plant%20Life.pdf'>
