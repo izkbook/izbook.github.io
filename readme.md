@@ -7,8 +7,7 @@
         background: white;
         width: 100%;
         text-align: left;
-        padding-top: 1.5px;
-        padding-bottom: 1.5px;
+        padding: 2.5px;
     }
 
     .book:hover {
@@ -24,7 +23,6 @@
     .container {
         border: 1px solid;
         border-color: #e0e0e0;
-        border-radius: 6px;
     }
 </style>
 
