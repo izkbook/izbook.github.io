@@ -26,11 +26,20 @@
     }
 </style>
 
+<!-- Webpages -->
+# Webpages
+These are websites and games created, enjopy for free with *no advertisements*
+
+<div class='container'>
+    <a href='./bean/index.html'>
+        <button class='book'>The Bean</button>
+    </a>
+</div>
+
 <!-- Books -->
 # Books
 A variety of books available to read, for free with *no advertisements*
-
-<button class='btn'>New Phone</button>
+> These books are written by Izkaan
 
 <div class='container'>
     <a href='./books/All%20About%20Plant%20Life.pdf'>
