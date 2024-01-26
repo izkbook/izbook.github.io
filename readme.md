@@ -32,7 +32,7 @@ These are websites and games created, enjopy for free with *no advertisements*
 
 <div class='container'>
     <a href='./bean/index.html'>
-        <button class='book'>The Bean</button>
+        <button class='book'>Bean23</button>
     </a>
 </div>
 
