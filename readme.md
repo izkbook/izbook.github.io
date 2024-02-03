@@ -7,7 +7,7 @@
         background: white;
         width: 100%;
         text-align: left;
-        padding: 3.5px;
+        padding: 6px 4px;
     }
 
     .book:hover {
@@ -16,7 +16,7 @@
     }
 
     .book:active {
-        background-color: #84dbb9;
+        background-color: #b4cfc4;
         cursor: pointer;
     }
 
@@ -28,11 +28,11 @@
 
 <!-- Webpages -->
 # Webpages
-These are websites and games created, enjopy for free with *no advertisements*
+These are websites created by Izkaan. They are not of the highest quality, and more will be imported from replt soon, enjopy for free with *no advertisements*
 
 <div class='container'>
-    <a href='./Bean23/index.html'>
-        <button class='book'>Bean23</button>
+    <a href='https://dbn24.imibuks.repl.co'>
+        <button class='book'>The Bean</button>
     </a>
 </div>
 
