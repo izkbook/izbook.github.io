@@ -66,6 +66,9 @@ A variety of books available to read, for free with *no advertisements*
     <a href='/books/The-Journal-Of-A-Plant-Old.pdf'>
         <button class='book'>The Journal Of A Plant <strong>Old</strong></button>
     </a>
+
+    <a href='./books/The Journal Of A Plant (redesign)_2.pdf'>
+        <button class='book'>The Journal Of A Plant <i>2024 Edition</i></button>
 </div>
 
 This is still an *early* developement, **it is broken**
