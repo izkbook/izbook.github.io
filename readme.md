@@ -38,6 +38,14 @@ These are websites created by Izkaan. They are not of the highest quality, and m
 
 
 <!-- Books -->
+# Latest
+This is the latest book that you should 100% read
+<div class='container'>
+    <a href='./books/The Journal Of A Plant (redesign)_2.pdf'>
+        <button class='book'>The Journal Of A Plant <i>2024 Edition</i></button>
+    </a>
+</div>
+
 # Books
 A variety of books available to read, for free with *no advertisements*
 > These books are written by Izkaan
@@ -67,8 +75,6 @@ A variety of books available to read, for free with *no advertisements*
         <button class='book'>The Journal Of A Plant <strong>Old</strong></button>
     </a>
 
-    <a href='./books/The Journal Of A Plant (redesign)_2.pdf'>
-        <button class='book'>The Journal Of A Plant <i>2024 Edition</i></button>
 </div>
 
 This is still an *early* developement, **it is broken**
