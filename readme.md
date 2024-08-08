@@ -41,6 +41,10 @@ These are websites created by Izkaan. They are not of the highest quality, and m
 # Latest
 This is the latest book that you should 100% read
 <div class='container'>
+    <a href='./books/The Journal Of A Plant Sequel.pdf'>
+        <button class='book'>The Journal Of A Plant <i>Sequel</i></button>
+    </a>
+    
     <a href='./books/The Journal Of A Plant (redesign)_2.pdf'>
         <button class='book'>The Journal Of A Plant <i>2024 Edition</i></button>
     </a>
